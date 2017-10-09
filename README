@@ -1,3 +1,5 @@
+Original README by Mark Glines <mark@glines.org>:
+
 The program 'bfr' acts like a buffering dropin replacement for 'cat'... the
 command line arguments mainly exist to you tune the specifics of that (and
 let you see a nifty progress bar over stderr).  The audio varient, bfp, has
